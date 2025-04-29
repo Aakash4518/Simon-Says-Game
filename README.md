@@ -2,6 +2,11 @@
 
 This project is a simple implementation of the classic "Simon Says" memory game. The goal of the game is to repeat a sequence of colors in the correct order as it gets progressively longer.
 
+## Play Online
+
+You can play the Simon Says Game online at [https://simonsaysga.web.app].
+
+
 ## Features
 
 - Interactive gameplay with increasing difficulty.
@@ -29,14 +34,6 @@ This project is a simple implementation of the classic "Simon Says" memory game.
     git clone https://github.com/your-username/SimonSaysGame.git
     ```
 2. Open `index.html` in your browser to start playing.
-
-## Contributing
-
-
-## Play Online
-
-You can play the Simon Says Game online at [https://simonsaysga.web.app].
-
 
 
 ## Acknowledgments
